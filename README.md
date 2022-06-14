@@ -182,4 +182,10 @@ to make sure that you are not duplicating an issue.
 
 https://github.com/openjfx/javafx-maven-plugin
 
+https://openjfx.io/openjfx-docs/#install-javafx
+
+https://gluonhq.com/products/javafx/
+
+
+
 # fx-sample
