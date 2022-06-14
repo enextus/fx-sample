@@ -178,4 +178,8 @@ providing you have signed the [Gluon Individual Contributor License Agreement (C
 
 Please go through the [list of issues](https://github.com/openjfx/samples/issues) 
 to make sure that you are not duplicating an issue.
+
+
+https://github.com/openjfx/javafx-maven-plugin
+
 # fx-sample
